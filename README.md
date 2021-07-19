@@ -7,5 +7,22 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## LaravelBlog
 
+- Git clone project về máy 
+- Cài đặt PHP, Laravel
+- Sửa file .env để kết nối với database
+- Kết nối database: "php artisan migrate" tạo bảng trong mySQL
+- Chạy dòng lệch trên terminal: "php artisan serve" chạy server 
+
+### Một số hình ảnh của Blog
+- TRANG CHỦ
+![image](https://user-images.githubusercontent.com/44396155/126106994-7b092da6-7378-413f-86ad-1d278334a78e.png)
+- BLOG 
+![image](https://user-images.githubusercontent.com/44396155/126107099-2184e6cc-8a89-428c-87ab-6346441f8ea8.png)
+
+- ĐĂNG KÝ, ĐĂNG NHẬP
+![image](https://user-images.githubusercontent.com/44396155/126107150-6e3afd5c-b2d5-4d89-8878-b83ab621963a.png)
+![image](https://user-images.githubusercontent.com/44396155/126107170-73bc46a5-a3c0-4aca-86ce-6ae0a736c439.png)
+- TẠO BÀI VIẾT
+![image](https://user-images.githubusercontent.com/44396155/126107205-b83fe457-06f6-43be-ad56-bb818ba3551e.png)
