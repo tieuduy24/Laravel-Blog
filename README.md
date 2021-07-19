@@ -26,3 +26,7 @@
 ![image](https://user-images.githubusercontent.com/44396155/126107170-73bc46a5-a3c0-4aca-86ce-6ae0a736c439.png)
 - TẠO BÀI VIẾT
 ![image](https://user-images.githubusercontent.com/44396155/126107205-b83fe457-06f6-43be-ad56-bb818ba3551e.png)
+
+- SỬA BÀI VIẾT
+![image](https://user-images.githubusercontent.com/44396155/126145753-442b45bb-2e3c-4a34-8722-3538b14c9926.png)
+
